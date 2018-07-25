@@ -1,0 +1,92 @@
+.container {
+  width: 550px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin: 20px;
+}
+
+img {
+  width: 250;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#avatar {
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px 1px rgba(0, 0, 0, 0.2);
+  width: 400px;
+  margin: 20px auto;
+  padding: 0;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+body {
+  background: #EBEBEB;
+  line-height: 1.6em;
+  font-family: 'Monserrat', sans-serif;
+  font-weight: lighter;
+  color: #293132;
+  line-height: 20px;
+  background-color: rgba(235, 235, 233, 0.6);
+}
+
+h1, h2, h3 {
+  font-family: 'Monserrat', sans-serif;
+  color: #0B3954;
+}
+ h1 {
+  font-size: 22px;
+  margin: 0;
+ }
+ h2 {
+  font-size: 20px;
+  font-weight: lighter;
+ }
+ h3{
+  font-size: 18px;
+  text-align: center
+ }
+ h6 {
+  font-family: 'Lato', sans-serif;
+  font-weight: lighter;
+ }
+a {
+  color: rgb(130, 181, 226);
+  text-decoration: none;
+}
+
+p {
+  margin: 20px 20px;
+  text-align: center;
+  padding: 8px;
+  font-size: 15px;
+}
+
+.fab, .fas {
+  color: rgb(130, 181, 226);
+  font-size: 40px;
+}
+a:hover, .fas:hover, .fab:hover {
+  color: #0B3954;
+}
+
+
+
